@@ -148,8 +148,8 @@ Below are the most important topics to cover:
    
 ## 5. Mathematics: 
 - Linear algebra
-- Probability
-- Statistics
+- Probability (Interviewbit for practice)
+- Statistics (Interviewbit for practice)
 
 # 3. ML Fundamentals Sample Questions 
 - What is machine learning and how does it differ from traditional programming?
