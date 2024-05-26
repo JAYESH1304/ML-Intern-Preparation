@@ -145,6 +145,11 @@ Below are the most important topics to cover:
   - Outliers
   - Similarity/dissimilarity metrics
     - Euclidean, Manhattan, Cosine, Mahalanobis (advanced)
+   
+## 5. Mathematics: 
+- Linear algebra
+- Probability
+- Statistics
 
 # 3. ML Fundamentals Sample Questions 
 - What is machine learning and how does it differ from traditional programming?
